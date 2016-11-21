@@ -42,7 +42,7 @@ concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
 ```
 
-If you need to install it, you can find installers for different operating systems here: [https://git-scm.com/downloads](https://git-scm.com/downloads)
+In case the above help message is not shown, you need to install git. You can find installers for different operating systems here: [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
 ## Lecture notes
 The slides are available here: ...
