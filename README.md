@@ -6,7 +6,7 @@ After this lecture/tutorial you will be able to
 
 ## Get started
 For this lecure, you need git to be installed on your computer (most likely this is already the case). 
-You can check easily by typing `git` in the terminal, you should see the following:
+If you type `git` in the terminal, you should see the following:
 ```bash
 usage: git [--version] [--help] [-C <path>] [-c name=value]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
