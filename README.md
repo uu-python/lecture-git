@@ -1,4 +1,4 @@
-# Organize your work with git repositories
+# An introduction to git repositories
 
 ... the aim (ILO) of the lecture
 
