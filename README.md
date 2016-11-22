@@ -45,7 +45,7 @@ to read about a specific subcommand or concept.
 In case the above help message is not shown, you need to install git. You can find installers for different operating systems here: [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
 ## Lecture notes
-The slides are available here: ...
+The slides are available here: [slides.pdf](./slides.pdf)
 
 ## Exercise 1
 1. Create a local copy (clone) of the following project: [https://github.com/uu-python/particpants](https://github.com/uu-python/particpants)
